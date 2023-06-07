@@ -2,6 +2,6 @@
 <html>
 <body>
 <h1>Sal's Blog/Portfolio</h1>
-<p>Website is a work in progress.</p>
+<p>The website is a work in progress.</p>
 </body>
 </html>
